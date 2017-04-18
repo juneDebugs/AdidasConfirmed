@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{2DDF1558-78D7-4CAF-994A-68237A2D7729}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AdidasConfirmed/AppInitializer.cs">
+    <Files>
+      <File FileName="AdidasConfirmed/AppInitializer.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.AdidasConfirmed PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

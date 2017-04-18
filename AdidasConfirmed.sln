@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdidasConfirmed", "AdidasConfirmed\AdidasConfirmed.csproj", "{2DDF1558-78D7-4CAF-994A-68237A2D7729}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DDF1558-78D7-4CAF-994A-68237A2D7729}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DDF1558-78D7-4CAF-994A-68237A2D7729}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DDF1558-78D7-4CAF-994A-68237A2D7729}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DDF1558-78D7-4CAF-994A-68237A2D7729}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
