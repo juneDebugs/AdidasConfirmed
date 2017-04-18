@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{2DDF1558-78D7-4CAF-994A-68237A2D7729}|Unit Tests">
-  <MonoDevelop.Ide.Workbench ActiveDocument="AdidasConfirmed/AppInitializer.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AdidasConfirmed/Tests.cs">
     <Files>
-      <File FileName="AdidasConfirmed/AppInitializer.cs" Line="1" Column="1" />
+      <File FileName="AdidasConfirmed/AppInitializer.cs" Line="31" Column="18" />
+      <File FileName="AdidasConfirmed/Tests.cs" Line="29" Column="18" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
