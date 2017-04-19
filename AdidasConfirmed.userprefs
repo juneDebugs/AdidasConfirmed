@@ -2,8 +2,25 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="AdidasConfirmed/Tests.cs">
     <Files>
       <File FileName="AdidasConfirmed/AppInitializer.cs" Line="31" Column="18" />
-      <File FileName="AdidasConfirmed/Tests.cs" Line="29" Column="18" />
+      <File FileName="AdidasConfirmed/Tests.cs" Line="34" Column="3" />
     </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="AdidasConfirmed" expanded="True">
+            <Node name="AdidasConfirmed" expanded="True">
+              <Node name="AdidasConfirmed" expanded="True">
+                <Node name="Tests" expanded="True">
+                  <Node name="Tests(Android)" expanded="True">
+                    <Node name="Repl" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.AdidasConfirmed PreferredExecutionTarget="MonoDevelop.Default" />
