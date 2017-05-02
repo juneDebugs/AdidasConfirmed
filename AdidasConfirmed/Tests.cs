@@ -33,7 +33,7 @@ namespace AdidasConfirmed
 		}
 
 		[Test]
-		public void NewTest()
+		public void NewUserSetupTest()
 		{
 			app.Tap("edit_text");
 			app.Tap("Sweden");
@@ -48,6 +48,7 @@ namespace AdidasConfirmed
 			app.SwipeRightToLeft();
 			Thread.Sleep(4000);
 			app.SwipeRightToLeft();
+			Thread.Sleep(4000);
 
 			app.Tap("continue_button");
 			app.Tap("enable_button");
