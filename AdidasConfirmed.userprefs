@@ -1,12 +1,28 @@
-﻿<Properties StartupConfiguration="{2DDF1558-78D7-4CAF-994A-68237A2D7729}|Unit Tests">
+﻿<Properties>
   <MonoDevelop.Ide.Workbench ActiveDocument="AdidasConfirmed/Tests.cs">
     <Files>
-      <File FileName="AdidasConfirmed/AppInitializer.cs" Line="31" Column="18" />
-      <File FileName="AdidasConfirmed/Tests.cs" Line="34" Column="3" />
+      <File FileName="AdidasConfirmed/AppInitializer.cs" Line="1" Column="1" />
+      <File FileName="AdidasConfirmed/Tests.cs" Line="21" Column="4" />
     </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="AdidasConfirmed" expanded="True">
+            <Node name="AdidasConfirmed" expanded="True">
+              <Node name="AdidasConfirmed" expanded="True">
+                <Node name="Tests" expanded="True">
+                  <Node name="Tests(Android)" expanded="True">
+                    <Node name="NewUserSetupTest" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.AdidasConfirmed PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
