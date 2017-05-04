@@ -37,10 +37,13 @@ namespace AdidasConfirmed
 		{
 			Thread.Sleep(4000);
 			app.Tap("edit_text");
+			app.Screenshot("Let's start by Tapping on the 'Edit Text' Field");
 			Thread.Sleep(4000);
 			app.Tap("Sweden");
+			app.Screenshot("Then we Tapped on 'Sweden'");
 			Thread.Sleep(4000);
 			app.Tap("continue_button");
+			app.Screenshot("Next we Tapped on the 'Continue' Button");
 			Thread.Sleep(4000);
 
 			app.SwipeRightToLeft();
