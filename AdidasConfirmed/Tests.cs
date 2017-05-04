@@ -35,9 +35,13 @@ namespace AdidasConfirmed
 		[Test]
 		public void NewUserSetupTest()
 		{
+			Thread.Sleep(4000);
 			app.Tap("edit_text");
+			Thread.Sleep(4000);
 			app.Tap("Sweden");
+			Thread.Sleep(4000);
 			app.Tap("continue_button");
+			Thread.Sleep(4000);
 
 			app.SwipeRightToLeft();
 			Thread.Sleep(4000);
