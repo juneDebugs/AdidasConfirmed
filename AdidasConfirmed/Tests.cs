@@ -61,9 +61,10 @@ namespace AdidasConfirmed
 			Thread.Sleep(4000);
 			app.Screenshot("4th Swipe Right to Left");
 
-
 			app.Tap("continue_button");
+			app.Screenshot("Then we Tapped on the 'Continue' Button");
 			app.Tap("enable_button");
+			app.Screenshot("Next we Tapped on 'Enable Location'");
 
 			app.Tap("ENABLE NOTIFICATIONS");
 			app.Screenshot("Then we Tapped 'Enable Notifcations");
