@@ -54,6 +54,7 @@ namespace AdidasConfirmed
 			app.Tap("enable_button");
 
 			app.Tap("ENABLE NOTIFICATIONS");
+			app.Screenshot("Then we Tapped 'Enable Notifcations");
 		}
 
 	}
