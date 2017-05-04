@@ -48,14 +48,19 @@ namespace AdidasConfirmed
 
 			app.SwipeRightToLeft();
 			Thread.Sleep(4000);
+			app.Screenshot("1st Swipe Right to Left");
+			app.SwipeRightToLeft();
+			Thread.Sleep(4000);
+			app.Screenshot("2nd Swipe Right to Left");
+			app.SwipeRightToLeft();
+			Thread.Sleep(4000);
+			app.Screenshot("3rd Swipe Right to Left");
 			app.SwipeRightToLeft();
 			Thread.Sleep(4000);
 			app.SwipeRightToLeft();
 			Thread.Sleep(4000);
-			app.SwipeRightToLeft();
-			Thread.Sleep(4000);
-			app.SwipeRightToLeft();
-			Thread.Sleep(4000);
+			app.Screenshot("4th Swipe Right to Left");
+
 
 			app.Tap("continue_button");
 			app.Tap("enable_button");
