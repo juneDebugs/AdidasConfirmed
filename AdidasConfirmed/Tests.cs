@@ -69,12 +69,9 @@ namespace AdidasConfirmed
 
 			app.Tap("ENABLE NOTIFICATIONS");
 			app.Screenshot("Then we Tapped 'Enable Notifcations");
-		}
 
-		[Test]
-		public void FirstTest()
-		{
-			
+			app.Tap("menu_button");
+			app.Screenshot("We Tapped on the 'Hamburger' Button");
 		}
 
 	}
